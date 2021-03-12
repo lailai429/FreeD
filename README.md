@@ -15,9 +15,21 @@ FREED
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+尽量自己搞一份接口，以免无法使用，不仅仅限制存放开源中国，GitHub也可行
+通过jsDelivr来引用资源 访问速度杠杠的格式如下： 
+https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名/文件路径    
+
+    由于gitee接口屏蔽导致部分人无法使用，现默认接口迁移至Github仓库内地址：https://github.com/FreeDTV/FreeD
+
+TV接口地址：
+  https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/
+
+手机接口地址：
+  https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/mobile/
+
+注意：
+
+     https://cdn.jsdelivr.net/gh/(这部分是固定的) 红色部分为 注册用户名 + 仓库名+路径 注意最后有个斜杠
 
 #### 参与贡献
 
